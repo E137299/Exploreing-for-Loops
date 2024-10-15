@@ -1,1 +1,1 @@
-# Exploreing-for-Loops
+# Exploring-for-Loops
